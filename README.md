@@ -6,6 +6,9 @@
 
 :wine_glass: -ref https://stackify.com/best-practices-exceptions-java/
 
+### Error Handling Node Js
+:wine_glass: -ref https://stackify.com/node-js-error-handling/
+
 ### Hibernate Mapping...
 
 #### JBOSS
