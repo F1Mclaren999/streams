@@ -1,0 +1,14 @@
+spring:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  datasource:
+     url: jdbc:mysql://localhost:3306/dbname
+     username: username
+     password: password
+server:
+   port: 5000
+logging:
+  level:
+    web: info
