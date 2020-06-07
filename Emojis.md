@@ -1,3 +1,4 @@
+```markdown
 EMOJI CHEAT SHEET
 
 Emoji emoticons listed on this page are supported on Campfire, GitHub, Basecamp, Redbooth, Trac, Flowdock, Sprint.ly, Kandan, Textbox.io, Kippt, Redmine, JabbR, Trello, Hall, plug.dj, Qiita, Zendesk, Ruby China, Grove, Idobata, NodeBB Forums, Slack, Streamup, OrganisedMinds, Hackpad, Cryptbin, Kato, Reportedly, Cheerful Ghost, IRCCloud, Dashcube, MyVideoGameList, Subrosa, Sococo, Quip, And Bang, Bonusly, Discourse, Ello, and Twemoji Awesome.
@@ -906,3 +907,4 @@ This page was created by Arvid Andersson / @arvid_a at Oktavilla. Source code is
 ♺ Built using bits from zClip, SubtlePatterns, jnotify, and list.js.
 
  Fork me on GitHub
+```
