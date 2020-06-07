@@ -23,3 +23,6 @@
 #### Emoji Hurray's
 :tropical_drink: -ref https://gist.github.com/roachhd/1f029bd4b50b8a524f3c#file-readme-md
 
+#### SpringBoot Feature's
+:tropical_drink: -ref https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-spring-application
+
